@@ -15,7 +15,7 @@ The data was gotten from  [Kaggle](https://www.kaggle.com/benhamner/nips-papers)
 After processing the data, I followed a structured workflow to build an insightful topic model based on the Latent Dirichlet Allocation (LDA) algorithm. The topic model was built using gensim’s native `LdaModel` and visualized the results using matplotlib plots.
 
 Next steps:
-- Built the LDA topic model using LdaModel(), the corpus and the dictionary.
+- Build the LDA topic model using LdaModel(), the corpus and the dictionary.
 
 I answered the following questions graphically:
 - Dominant topic and its percentage contribution in each document
