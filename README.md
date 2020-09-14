@@ -30,12 +30,12 @@ Finally, I visualized:
 
 <table style="width:100%">
   <tr>
-    <td><a href="https://github.com/LotaIbe/topic-modeling-nips"> <img src="images/pyldavis.png"></td>
-    <td><a href="https://github.com/LotaIbe/topic-modeling-nips"> <img src="images/tsne_clustering.png"></td> 
+    <td> <a href="https://github.com/LotaIbe/topic-modeling-nips"><img src="images/pyldavis.png"> </td>  
+    <td> <a href="https://github.com/LotaIbe/topic-modeling-nips"><img src="images/tsne_clustering.png"> </td>   
   </tr>
   <tr>
-    <td><a href="https://github.com/LotaIbe/topic-modeling-nips">  <img src="images/wordcloud.png"></td>
-    <td><a href="https://github.com/LotaIbe/topic-modeling-nips"> <img src="images/distribution.jpg"> </td> 
+    <td> <a href="https://github.com/LotaIbe/topic-modeling-nips"><img src="images/wordcloud.png"> </td>    
+    <td> <a href="https://github.com/LotaIbe/topic-modeling-nips"><img src="images/distribution.jpg"> </td>   
   </tr>
 </table>
 
