@@ -3,7 +3,7 @@
 Neural Information Processing Systems (NIPS) is one of the top machine learning conferences in the world where groundbreaking work is published. Since the year 1987, a lot of exciting work has been published in this confernece, but are the trends in recent machine learning research published to this Journal. The object of this project is to analyze a large collection of NIPS research papers from the past decades to discover the latest trends in machine learning.
 
 ## Data 
-The data was gotten from  Kaggle(https://www.kaggle.com/benhamner/nips-papers) and includes the `title`, `authors`, `abstracts`, and `extracted text` for all NIPS papers up to 2017 (ranging from the first 1987 conference to the current 2016 conference).
+The data was gotten from  [Kaggle](https://www.kaggle.com/benhamner/nips-papers) and includes the `title`, `authors`, `abstracts`, and `extracted text` for all NIPS papers up to 2017 (ranging from the first 1987 conference to the current 2016 conference).
 
 ## Method
 - The data was first cleaned and processed using:
@@ -27,6 +27,8 @@ Finally, I visualized:
 - Theclusters of documents using `t-SNE` (t-distributed stochastic neighbor embedding) algorithm
 
 ## Results
-
+| <a href="https://github.com/LotaIbe/topic-modeling-nips"> <img src="images/pyldavis.png>   | <a href="https://github.com/LotaIbe/topic-modeling-nips"> <img src="images/tsne_clustering.png> |
+|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| <a href="https://github.com/LotaIbe/topic-modeling-nips">  <img src="images/wordcloud.png> | <a href="https://github.com/LotaIbe/topic-modeling-nips">  <img src="images/distribution.jpg>   |
 
 
