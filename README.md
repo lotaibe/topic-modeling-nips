@@ -27,17 +27,9 @@ Finally, I visualized:
 - Theclusters of documents using `t-SNE` (t-distributed stochastic neighbor embedding) algorithm
 
 ## Results
+Click on the image below to view the results 
+<a href="https://nbviewer.jupyter.org/github/LotaIbe/topic-modeling-nips/blob/master/Topic%20Modeling%20-%20NIPS%20papers.ipynb#topic=3&lambda=0.83&term="><img src="images/pyldavis.png"> 
 
-<table style="width:100%">
-  <tr>
-    <td> <a href="https://github.com/LotaIbe/topic-modeling-nips"><img src="images/pyldavis.png"> </td>  
-    <td> <a href="https://github.com/LotaIbe/topic-modeling-nips"><img src="images/tsne_clustering.png"> </td>   
-  </tr>
-  <tr>
-    <td> <a href="https://github.com/LotaIbe/topic-modeling-nips"><img src="images/wordcloud.png"> </td>    
-    <td> <a href="https://github.com/LotaIbe/topic-modeling-nips"><img src="images/distribution.jpg"> </td>   
-  </tr>
-</table>
 
 
 
